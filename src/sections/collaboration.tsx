@@ -83,7 +83,7 @@ export const Collaboration = () => {
             >
               <motion.img
                 style={{ opacity }}
-                src="/img3.jpg"
+                src="/img9.jpg"
                 className="h-auto max-h-none w-[70vw] sm:w-[60vw] rounded"
               />
               <motion.div

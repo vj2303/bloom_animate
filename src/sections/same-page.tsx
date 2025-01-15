@@ -162,7 +162,7 @@ export const SamePage = () => {
               "--scale": scale,
             })}
           >
-            <img src="/img1.jpg" className="h-auto w-full" />
+            <img src="/img6.jpg" className="h-auto w-full" />
             <motion.img
               style={{ opacity: avatarOpacity }}
               className="absolute left-[13%] top-1/2 h-[1.5vw] w-[1.5vw] translate-y-1/2 rounded-full border border-[#c82] object-cover will-change-transform"

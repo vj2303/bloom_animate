@@ -58,7 +58,7 @@ export const Features = () => {
       <div className="sticky top-[16.7vh] h-[66.8vh] px-16 sm:text-2xl text-md leading-[1] text-white [&_p]:w-[45rem] [&_p]:max-w-[90%]">
         <motion.div style={{ x, scale }} className="relative h-full">
           <motion.figure style={{ opacity }} className="h-full">
-            <img src="/img1.jpg" className="h-full w-auto  rounded-md" />
+            <img src="/img5.jpg" className="h-full w-auto  rounded-md" />
           </motion.figure>
           <motion.figure style={{ opacity: text2Opacity }}>
             <img
